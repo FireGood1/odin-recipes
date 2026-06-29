@@ -1,0 +1,73 @@
+.title {
+    text-align: center;
+    padding: 16px;
+    background-color: rgb(238, 255, 0);
+    border-bottom-style: dotted;
+    border-bottom-color: orange;
+}
+.main-recipes {
+    font-size: 32px;
+    list-style-position: inside;
+    text-align: center;
+}
+.back {
+    display: block;
+    text-align: center;
+    font-size: 24px;
+}
+.image-align {
+    margin: 24px auto;
+    display: block;
+    border: 10px;
+    border-color: crimson;
+    border-style: groove;
+}
+.description {
+    text-align: center;
+    font-size: 24px;
+    margin: 24px 80px;
+}
+.turn-block {
+    display: block;
+    font-size: 32px;
+}
+
+#too-tall {
+    height: 400px;
+    width: 400px;
+}
+
+.wrapper {
+    border-style: ridge;
+    border-color:darkslategray;
+    background-color: gray;
+}
+
+.headings {
+    text-align: center;
+    background-color: coral;
+    border-bottom: 8px;
+    border-bottom-style: dotted;
+    font-size: 32px;
+}
+
+#subpage-list-font {
+    font-size: 18px;
+}
+
+.subsections {
+    width: fit-content;
+    display: box;
+    font-size: 30px;
+    color: blue;
+    border: 4px;
+    border-bottom-style: dashed;
+    border-color: blue;
+}
+li {
+    margin-bottom: 16px;
+    font-size: 24px;
+}
+body {
+    background-color:lightgreen;
+}
